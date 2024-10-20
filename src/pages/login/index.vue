@@ -3,7 +3,7 @@
       <v-img 
         class="mx-auto my-6" 
         max-width="228"
-        src="https://www.grupoa.com.br/hs-fs/hubfs/logo-grupoa.png?width=300&name=logo-grupoa.png">
+        src="https://maisaedu.com.br/hubfs/site-grupo-a/logo-mais-a-educacao.svg">
       </v-img>
   
       <v-card class="mx-auto pa-12 pb-8" elevation="8" max-width="448" rounded="lg">
